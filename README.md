@@ -1,0 +1,1 @@
+Just for availabilities sake i will put it up on github, i dont plan to support this in any way what so ever. There maybe a version of camquake coming with fte as the base client, but don't count on it.
